@@ -4,7 +4,7 @@ idk
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ucjoekbchnio4edmhfc6gxhlua)
 
-<h3 align="left">Languages I mainly do:</h3>
+<h3 align="left">Languages I mainly use:</h3>
 <p align="left">
   <a href="https://www.lua.org" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/> 
@@ -36,7 +36,7 @@ idk
   </a> 
 </p>
 
-<h3 align="left">Languages I do but don't like using:</h3>
+<h3 align="left">Languages I use but don't like using:</h3>
 <p align="left">
   <a href="https://haxe.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" alt="haxe" width="40" height="40"/> 
