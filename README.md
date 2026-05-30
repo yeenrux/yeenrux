@@ -1,8 +1,17 @@
-idk
+# **Hey! I'm Falrux**! (*formerly Unknowingly*)
 
-<h3 align="left">Spotify Recently Played:</h3>
+I am a **Developer** and **Music Composer** with:
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ucjoekbchnio4edmhfc6gxhlua)
+> **4+ Years** of Experience in Coding  
+> **2+ Years** of Experience in Reverse Engineering
+
+I don't publicly upload many of my projects on GitHub anymore as nowadays I mainly focus on private projects.
+
+<br/>
+
+<p align="center">
+  <img alt="asset" src="https://wallpapers.ispazio.net/wp-content/uploads/2021/04/solid-gray.png" width="5000" height="50" style="max-width: 100%;">
+</p>
 
 <h3 align="left">Languages I mainly use:</h3>
 <p align="left">
@@ -23,7 +32,7 @@ idk
   </a>
 </p>
 
-<h3 align="left">Languages i'm still new at:</h3>
+<h3 align="left">Languages I'm still new to:</h3>
 <p align="left">
   <a href="https://rust-lang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/600w/FFFFFF/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" alt="rust" width="40" height="40"/> 
@@ -46,3 +55,8 @@ idk
   </a>
 </p>
 
+<p align="center">
+  <img alt="asset" src="https://wallpapers.ispazio.net/wp-content/uploads/2021/04/solid-gray.png" width="5000" height="50" style="max-width: 100%;">
+</p>
+
+<span style="font-size: 0.75em;">**Owner of Noxium** | [UseNoxium.xyz](https://usenoxium.xyz)</span>
