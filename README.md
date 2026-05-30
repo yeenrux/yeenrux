@@ -52,6 +52,9 @@ I don't publicly upload many of my projects on GitHub anymore as nowadays I main
   <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/idleberg/applescript-svg-icon/refs/heads/master/src/applescript.svg" alt="applescript" width="40" height="40"/> 
   </a>
+  <a href="https://www.learn.microsoft.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="c#" width="40" height="40"/> 
+  </a>
 </p>
 
 <h2 align="left">Languages that I know but don't like using:</h2>
