@@ -22,7 +22,7 @@ I don't publicly upload many of my projects on GitHub anymore as nowadays I main
   <img alt="asset" src="https://wallpapers.ispazio.net/wp-content/uploads/2021/04/solid-gray.png" width="5000" height="30" style="max-width: 100%;">
 </p>
 
-<h2 align="left">Languages I mainly use:</h2>
+<h2 align="left">Languages that I mostly know:</h2>
 <p align="left">
   <a href="https://www.lua.org" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/> 
@@ -41,21 +41,24 @@ I don't publicly upload many of my projects on GitHub anymore as nowadays I main
   </a>
 </p>
 
-<h2 align="left">Languages I'm still new to:</h2>
+<h2 align="left">Languages that I'm still learning:</h2>
 <p align="left">
-  <a href="https://rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/600w/FFFFFF/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" alt="rust" width="40" height="40"/> 
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
   <a href="https://web.dev/css" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
   </a> 
+  <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/idleberg/applescript-svg-icon/refs/heads/master/src/applescript.svg" alt="applescript" width="40" height="40"/> 
+  </a>
 </p>
 
-<h2 align="left">Languages I use but don't like using:</h2>
+<h2 align="left">Languages that I know but don't like using:</h2>
 <p align="left">
+  <a href="https://rust-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/600w/FFFFFF/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" alt="rust" width="40" height="40"/> 
+  </a>
   <a href="https://haxe.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" alt="haxe" width="40" height="40"/> 
   </a>
