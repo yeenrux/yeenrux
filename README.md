@@ -13,7 +13,7 @@ I don't publicly upload many of my projects on GitHub anymore as nowadays I main
 </p>
 
 <img 
-  src="https://lanyard.cnrad.dev/api/1372415165479522314" 
+  src="https://lanyard.cnrad.dev/api/709665192757428264" 
   style="width: 420px; height: auto; display: block;" 
   alt="Discord Status"
 />
@@ -76,19 +76,19 @@ I don't publicly upload many of my projects on GitHub anymore as nowadays I main
 
 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=falrux&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&count_private=true&cache_seconds=1" height="200" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yeenrux&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&count_private=true&cache_seconds=1" height="200" />
 
 <p align="center">
   <img alt="asset" src="https://wallpapers.ispazio.net/wp-content/uploads/2021/04/solid-gray.png" width="5000" height="30" style="max-width: 100%;">
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=falrux&theme=dark&background=1a1a1a&ring=ffffff&fire=ffffff&currStreakNum=ffffff" height="200" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yeenrux&theme=dark&background=1a1a1a&ring=ffffff&fire=ffffff&currStreakNum=ffffff" height="200" />
 
 <p align="center">
   <img alt="asset" src="https://wallpapers.ispazio.net/wp-content/uploads/2021/04/solid-gray.png" width="5000" height="30" style="max-width: 100%;">
 </p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=falrux&layout=compact&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa&count_private=true&langs_count=10&hide_progress=true" height="200" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeenrux&layout=compact&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa&count_private=true&langs_count=10&hide_progress=true" height="200" />
 
 
 
