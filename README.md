@@ -95,6 +95,3 @@ I don't publicly upload many of my projects on GitHub anymore as nowadays I main
 <p align="center">
   <img alt="asset" src="https://wallpapers.ispazio.net/wp-content/uploads/2021/04/solid-gray.png" width="5000" height="30" style="max-width: 100%;">
 </p>
-
-
-<span style="font-size: 0.75em;">**Owner of Noxium** | [UseNoxium.xyz](https://usenoxium.xyz)</span>
