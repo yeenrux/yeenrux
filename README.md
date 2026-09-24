@@ -8,6 +8,8 @@ I am a **Developer** and **Music Composer** with:
 
 I don't publicly upload many of my projects on GitHub anymore as nowadays I mainly focus on private projects.
 
+(a lot of repos were taken down because of Github's TOS)
+
 <p align="center">
   <img alt="asset" src="https://wallpapers.ispazio.net/wp-content/uploads/2021/04/solid-gray.png" width="5000" height="30" style="max-width: 100%;">
 </p>
