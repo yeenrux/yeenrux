@@ -20,7 +20,7 @@ I don't publicly upload many of my projects on GitHub anymore as nowadays I main
     <td valign="middle">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="36"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" height="36"/>
-      <img src="https://raw.githubusercontent.com/idleberg/applescript-svg-icon/refs/heads/mastear/src/applescript.svg" height="36" width="36"/>
+      <img src="https://raw.githubusercontent.com/idleberg/applescript-svg-icon/refs/heads/master/src/applescript.svg" height="36" width="36"/>
       <img src="https://raw.githubusercontent.com/n-loco/obj-c-logo/refs/heads/master/objective_c.svg" height="36" width="36"/>
       <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" height="36"/>
     </td>
