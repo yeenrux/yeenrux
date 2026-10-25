@@ -25,7 +25,7 @@ I don't publicly upload many of my projects on GitHub anymore as nowadays I main
       <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" height="36"/>
     </td>
     <td rowspan="3" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=JadXV&theme=dark&hide_border=true" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=yeenrux&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" height="170"/>
     </td>
   </tr>
   <tr>
