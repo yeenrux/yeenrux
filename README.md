@@ -53,5 +53,6 @@ I don't publicly upload many of my projects on GitHub anymore as nowadays I main
 </p>
 
 <div align="center">
-  <strong>@yeenrux</strong> on every platform
+  <strong>@yeenrux</strong> on every platform<br>
+  https://discord.gg/urJGFzdA3s
 </div>
