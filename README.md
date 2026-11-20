@@ -43,7 +43,7 @@ I don't publicly upload many of my projects on GitHub anymore as nowadays I main
       <strong>Currently learning:</strong>
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=html,css,cs&theme=dark" height="36"/>
+      <img src="https://skillicons.dev/icons?i=html,css,cs,swift&theme=dark" height="36"/>
     </td>
   </tr>
 </table>
